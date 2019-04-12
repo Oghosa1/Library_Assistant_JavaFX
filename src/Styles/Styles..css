@@ -1,0 +1,22 @@
+.button.green:hover
+{
+	-fx-background-color :#2FFF00;
+}
+.button.red:hover
+{
+	-fx-background-color: #F90404;
+}
+.button.color
+{
+	-fx-background-color: #2958E5;
+}
+.setup-button:hover{
+	-fx-background-color: #0288D1;
+	-fx-text-fill: #FFFFFF;
+}
+.setup-button{
+	-fx-background-color: #424242;
+	-fx-text-fill: white;
+}
+.mainFxmlClass{
+}
